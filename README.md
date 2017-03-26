@@ -1,4 +1,4 @@
-# CarND-Project 1: LaneLineDetection
+# CarND-Project 1: Lane Line Detection
 Project 1 - Udacity Self Driving Car Nano-Degree Program - Finding Lane Lines
 
 This project focuses on finding lane lines in a video stream using the lessons learned in Udacity Self Driving Nano-Degree Program. 
